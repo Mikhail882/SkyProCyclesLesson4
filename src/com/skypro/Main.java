@@ -20,7 +20,7 @@ public class Main {
         System.out.println("\n");
         for (int yearCometa = 0; yearCometa <= 2122; yearCometa = yearCometa + 79) {
         if (yearCometa >=1822 && yearCometa <=2122) {
-            System.out.println(+yearCometa);}
+            System.out.println(yearCometa);}
         }
     }
 }
