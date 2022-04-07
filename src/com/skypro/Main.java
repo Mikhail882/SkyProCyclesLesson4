@@ -7,7 +7,7 @@ public class Main {
         for (int i = 1; i <= 10; i++) {
             System.out.print(+i);
         }
-        System.out.println("\n");
+        System.out.print("\n");
         int start = 10;
         while (start > 0) {
             System.out.print(start);
